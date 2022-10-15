@@ -1,0 +1,105 @@
+.user-nav{
+    position: relative;
+    width: 100%;
+}
+.text{
+    font-size: 17px !important;
+    position: relative;
+    color: white !important;
+    bottom: -1px;
+    /* left: 20px; */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 500;
+}
+.menu{
+   position: relative;
+   width: 40px !important;
+   height: 40px !important;
+   left: -5px;
+
+}
+.nav-main{
+    background-color: #6C5984;
+    height: 9%;
+}
+.search{
+    width: 95% !important;
+    border-radius: 30pc !important;
+    position: relative;
+    left: 5px;
+}
+.search::placeholder{
+    font-size: 13px;
+}
+.convo,.contact{
+    width: 135px;
+    right: -20px;
+    color: #6C5984;
+}
+.image{
+    position: relative;
+    /* margin-left:'210px'; */
+    top: 10px;
+    left: -95px;
+}
+.create{
+    background-color: #6C5984 !important;
+    border-color: #6C5984 !important;
+}
+input[type=checkbox] {
+    accent-color: rgb(62, 34, 62);
+  }
+  
+  .translate{
+    position: relative;
+    left: -40px;
+    bottom: -9px;
+  }
+ .send{
+    background-color: #6C5984 !important;
+    border-color: #6C5984 !important;
+    margin-left: -29px;
+ }
+ .list:onclick{
+    background-color: #6C5984;
+
+ }
+ #example-collapse-text{
+    position:absolute;
+    margin-top: -110px;
+    width:30%;
+    margin-left: 65%;
+    background-color: white;   
+    border-radius: 5px !important; 
+    box-shadow: rgba(108, 89, 132, 0.24) 0px 3px 8px;
+   
+ }
+ .form-select1{
+    margin-top: 5%;
+    margin-left: 20%;
+    border-radius: 25px;
+    border-color: #6C5984;
+    border-width: 1.5px;
+ }
+ .form-select2{
+    margin-top: 5%;
+    margin-left: 30%;
+    margin-bottom: 10%;
+    border-radius: 25px;
+    border-color: #6C5984;
+    border-width: 1.5px;
+ }
+ .label{
+    position: relative;
+    top: 5px;
+    right: -20px;
+    color: #6C5984;
+ }
+ 
+ .list-group-item.active{
+    background-color:#988db2 !important;
+    border-color: #988db2 !important;
+    
+ }
+
+ 
